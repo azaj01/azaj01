@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Azaj01
+# Hi there! 👋 I'm Azaj Patel
 
 Welcome to my GitHub profile! 🚀 I'm a passionate developer dedicated to creating impactful software solutions. Here's a little about me:
 

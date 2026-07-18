@@ -13,8 +13,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate developer dedicated to creat
 ---
 
 ### 🚀 My Skills:
-- **Languages**: Dart, Python
-- **Frameworks & Tools**: Flutter, FastAPI, AWS , Langchain, Langraph 
+- **Languages**: Dart, Python, Typescript
+- **Frameworks & Tools**: Flutter, Openclaw, Hermes, FastAPI, AWS , Langchain, Langraph 
 - **State Management**: Bloc, Riverpod, Signal
 - **DevOps**: CI/CD, GitHub Actions
 - **Cloud Services**: Firebase, AWS (CDN, S3, Lambda, MediaConvert)

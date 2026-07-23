@@ -1,7 +1,5 @@
 <!-- Hero with avatar + typing SVG -->
-<p align="center">
-  <img src="https://github.com/azaj01.png" width="120" height="120" style="border-radius: 50%;" alt="Azaj Patel" />
-</p>
+
 <h1 align="center">Azaj Patel</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">

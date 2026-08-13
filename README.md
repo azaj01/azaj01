@@ -114,15 +114,6 @@ I build **AI agents that ship as Flutter apps**. Currently building **[Doit](htt
 
 ---
 
-### 📊 GitHub
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azaj01&theme=radical&hide_border=true" alt="Activity Graph" width="70%">
-</p>
-
----
 
 ### 📫 Let's Connect
 
